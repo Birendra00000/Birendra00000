@@ -3,7 +3,7 @@
     <h1>Hi 👋, I'm Birendra Bhusal</h1>
     <h3>A passionate MERN developer from Nepal</h3>
   </div>
- <img alt="Coder GIF" height=300 width=300 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+ <img alt="Coder GIF" height=150 width=150 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 <br>
 </div>
 
