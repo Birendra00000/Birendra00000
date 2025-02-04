@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Sewa](https://github.com/Birendra00000/Sewa)
 
-- 🌱 I’m currently learning **TypeScript,. Net**
+- 🌱 I’m currently learning **TypeScript,Python
 
 - 👨‍💻 All of my projects are available at [https://portfolio-birendras-projects-6a1c03cb.vercel.app/](https://portfolio-birendras-projects-6a1c03cb.vercel.app/)
 
