@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
   <div style="margin-right: 20px;">
     <h1>Hi 👋, I'm Birendra Bhusal</h1>
-    <h3>A passionate MERN developer from Nepal</h3>
+    <h3>A passionate Software Engineer from Nepal</h3>
   </div>
  <img alt="Coder GIF" height=150 width=150 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 <br>
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-birendras-projects-6a1c03cb.vercel.app/](https://portfolio-birendras-projects-6a1c03cb.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **birendrabhusal555@gmail.com**
 
