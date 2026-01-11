@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
   <div style="margin-right: 20px;">
     <h1>Hi 👋, I'm Birendra Bhusal</h1>
-    <h3>A passionate Software Engineer from Nepal</h3>
+    <h3>A passionate Software developer from Nepal</h3>
   </div>
  <img alt="Coder GIF" height=150 width=150 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 <br>
@@ -14,9 +14,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birendra00000" alt="birendra00000" /></a> </p>
 
-- 🔭 I’m currently working on [Sewa](https://github.com/Birendra00000/Sewa)
+- 🔭 Recent Projects:
+- 👨‍🏫 https://medhavhi.com/en
+- 💲  Nepal e-billing
+- ☔ https://www.ncon.org.au/home/
 
-- 🌱 I’m currently learning **TypeScript,Python
+☀️ Currently Working
+  -🌐 HRAC - Payroll system
+  -🚜 Nepali POS-Modern point-of-sale solution
+  -🛒 Pacific SeaFoods-Online Seafoods system
+
+- 🌱 I’m currently learning *everything
 
 - 👨‍💻 All of my projects are available at [https://portfolio-birendras-projects-6a1c03cb.vercel.app/](https://portfolio-birendras-projects-6a1c03cb.vercel.app/)
 
