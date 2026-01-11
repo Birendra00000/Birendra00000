@@ -24,7 +24,9 @@
   <p>-🚜 Nepali POS-Modern point-of-sale solution </p>
   <p>-🛒 Pacific SeaFoods-Online Seafoods system </p>
 
-- 🌱 I’m currently learning *everything
+<p></p><p></p>
+
+- 🌱 I’m currently learning * how to define problems
 
 - 👨‍💻 All of my projects are available at [https://portfolio-birendras-projects-6a1c03cb.vercel.app/](https://portfolio-birendras-projects-6a1c03cb.vercel.app/)
 
