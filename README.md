@@ -15,20 +15,20 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birendra00000" alt="birendra00000" /></a> </p>
 
 - 🔭 Recent Projects:
-- 👨‍🏫 https://medhavhi.com/en
-- 💲  Nepal e-billing
-- ☔ https://www.ncon.org.au/home/
+- 👨‍🏫 https://medhavhi.com/en -School Management Software
+- 💲  [Nepal e-billing](https://nepalebilling.com/) -IRD verified Billing software
+- ☔ https://www.ncon.org.au/home/ -NCON website
 
 ☀️ Currently Working
-  -🌐 HRAC - Payroll system
-  -🚜 Nepali POS-Modern point-of-sale solution
-  -🛒 Pacific SeaFoods-Online Seafoods system
+  <p>-🌐 HRAC - Payroll system </p>
+  <p>-🚜 Nepali POS-Modern point-of-sale solution </p>
+  <p>-🛒 Pacific SeaFoods-Online Seafoods system </p>
 
 - 🌱 I’m currently learning *everything
 
 - 👨‍💻 All of my projects are available at [https://portfolio-birendras-projects-6a1c03cb.vercel.app/](https://portfolio-birendras-projects-6a1c03cb.vercel.app/)
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Technology**
 
 - 📫 How to reach me **birendrabhusal555@gmail.com**
 
